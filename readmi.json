@@ -1,8 +1,8 @@
 {
   "alternateDomain":"https://xx.com",
-  "apiDomain":["https://xx.com","https://xx.com"],
-  "pictureDomain":["https://xx.com","https://xx.com"],
-  "cryptoPictureDomain":["https://xx.com","https://xx.com"],
-  "fileDomain":["https://xx.com","https://xx.com"],
-  "cryptoFileDomain":["https://xx.com","https://xx.com"]
+  "api_domain":["https://xx.com","https://xx.com"],
+  "encrypt_img_domain":["https://xx.com","https://xx.com"],
+  "img_domain":["https://xx.com","https://xx.com"],
+  "file_upload_domain":["https://xx.com","https://xx.com"],
+  "file_download_domain":["https://xx.com","https://xx.com"]
 }
