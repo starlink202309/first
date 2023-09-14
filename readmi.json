@@ -1,14 +1,8 @@
-[
-  {
-    "description": "测试域名",
-    "domainAdder": "http://web.airdroid.com",
-    "domainType": 0,
-    "state": 1
-  },
-   {
-    "description": "测试域名1",
-    "domainAdder": "https://www.baidu.com",
-    "domainType": 0,
-    "state": 1
-  }
-]
+{
+  "alternateDomain":"https://xx.com",
+  "apiDomain":["https://xx.com","https://xx.com"],
+  "pictureDomain":["https://xx.com","https://xx.com"],
+  "cryptoPictureDomain":["https://xx.com","https://xx.com"],
+  "fileDomain":["https://xx.com","https://xx.com"],
+  "cryptoFileDomain":["https://xx.com","https://xx.com"]
+}
