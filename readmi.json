@@ -1,3 +1,14 @@
-{
-  "domain": "https://www.google.com"
-}
+[
+  {
+    "description": "测试域名",
+    "domainAdder": "http://web.airdroid.com",
+    "domainType": 0,
+    "state": 1
+  },
+   {
+    "description": "测试域名1",
+    "domainAdder": "https://www.baidu.com",
+    "domainType": 0,
+    "state": 1
+  }
+]
